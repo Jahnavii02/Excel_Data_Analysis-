@@ -67,7 +67,7 @@ It improves accuracy, saves time, and provides clear insights without any progra
 ##  Screenshots
 
 
-![Attendance Log]("https://postimg.cc/23dm8Xxn")
+![Attendance Log](https://postimg.cc/23dm8Xxn)
 ![Power_Query]("https://postimg.cc/Cn7WCXvt")
 ![BarChart]("https://postimg.cc/yWTdrN2q")
 
